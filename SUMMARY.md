@@ -5,6 +5,7 @@
     * [拥有项目空间](beginner/workspace/1.md)
     * 资源申请
         * [申请新队列](beginner/resource/1.md)
+        * [申请新Hive表](beginner/resource/2.md)
     * [新增数据源](beginner/job/1.md)
     * [创建Hive元数据离线表](beginner/job/2.md)
     * [新建文件夹，新建数据库传输节点任务](beginner/job/3.md)
