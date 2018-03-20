@@ -6,9 +6,7 @@
     * [角色管理，权限授予](beginner/workspace/2.md)
     * 资源申请
         * [申请新队列](beginner/resource/1.md)
-        
-        * [申请新Hive表](beginner/resource/2.md)
-        
+        * [申请新Hive表](beginner/resource/2.md)        
         * [修改队列和存储配额](beginner/resource/3.md)
     * [新增数据源](beginner/job/1.md)
     * [创建Hive元数据离线表](beginner/job/2.md)
