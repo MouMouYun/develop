@@ -11,9 +11,9 @@
     * [新增数据源](beginner/job/1.md)
     * [创建Hive元数据离线表](beginner/job/2.md)
     * [新建文件夹，新建数据库传输节点任务](beginner/job/3.md)
-    * [提交上线，设置调度周期](beginner/job/4.md)
+    * [提交上线，任务运维](beginner/job/4.md)
     * [取消调度，删除节点任务，删除文件夹](beginner/job/5.md)
-    * [上传/下载项目包](beginner/job/6.md)
+    * [上传/下载项目包，上传资源包](beginner/job/6.md)
     * [快速定位Hive表](beginner/job/7.md)
 * 模块指南
     * 项目中心
